@@ -1,0 +1,14 @@
+{
+  "rental_deposit": [
+    {
+      "id": "sec_35_cpa",
+      "title": "Consumer Protection Act, 2019 - Section 35",
+      "text": "A complaint may be filed with the District Commission by the consumer to whom goods or services are alleged to have been provided in a deficient manner, seeking relief including refund and compensation."
+    },
+    {
+      "id": "sec_36_cpa",
+      "title": "Consumer Protection Act, 2019 - Section 36",
+      "text": "On admission of a complaint, the District Commission shall refer a copy of the complaint to the opposite party directing them to give their version of the case within a period of thirty days."
+    }
+  ]
+}

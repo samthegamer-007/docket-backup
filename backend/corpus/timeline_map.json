@@ -1,0 +1,34 @@
+{
+  "rental_deposit": {
+    "display_name": "Rental Deposit Not Returned",
+    "stages": [
+      {
+        "id": "notice_sent",
+        "label": "Formal Notice Sent",
+        "order": 1,
+        "window_days": 30,
+        "next_stage": "consumer_forum_complaint",
+        "legal_basis": "Consumer Protection Act, 2019 - mandatory grievance window before escalation",
+        "description": "A formal written demand notice has been sent to the landlord requesting return of the security deposit."
+      },
+      {
+        "id": "consumer_forum_complaint",
+        "label": "Consumer Forum Complaint Filed",
+        "order": 2,
+        "window_days": 45,
+        "next_stage": "district_commission_escalation",
+        "legal_basis": "Consumer Protection Act, 2019, Section 35 - complaint before District Commission",
+        "description": "A complaint has been filed with the District Consumer Disputes Redressal Commission."
+      },
+      {
+        "id": "district_commission_escalation",
+        "label": "District Commission Hearing",
+        "order": 3,
+        "window_days": 90,
+        "next_stage": null,
+        "legal_basis": "Consumer Protection Act, 2019, Section 36 - procedure on admission of complaint",
+        "description": "The case has been escalated to a formal hearing before the District Commission."
+      }
+    ]
+  }
+}
