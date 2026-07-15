@@ -1,1 +1,16 @@
-
+{
+  "rental_deposit": [
+    {
+      "id": "case_hsbedi_2015",
+      "title": "H S Bedi vs National Highway Authority Of India (Delhi High Court, 2015)",
+      "text": "In this case, a tenant argued they could keep possession of a rented property until their security deposit was refunded. The Delhi High Court held that a tenant cannot withhold possession on this basis alone - the tenant has a separate legal remedy to recover the security deposit, and withholding possession instead makes the tenant liable to keep paying rent until possession is actually handed back.",
+      "source_url": "https://indiankanoon.org/doc/183757259/"
+    },
+    {
+      "id": "case_tnhandloom_2009",
+      "title": "Tamil Nadu Handloom Weavers' Society vs Harbans Lal Gupta (2009)",
+      "text": "This case involved a tenant who terminated a lease with the notice period specified in the lease deed and then sought the return of the remaining security deposit balance from the landlord, illustrating a standard deposit-recovery dispute following lawful lease termination.",
+      "source_url": "https://indiankanoon.org/doc/183757259/"
+    }
+  ]
+}
